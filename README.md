@@ -1,8 +1,7 @@
 ![logo](https://github.com/rakshitnegi1234/rakshitnegi1234/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png).
 
 
-<h1 align="center">Hi 👋, I'm Rakshit Negi</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<h2 align="center">A Passionate Software Engineer from India</h3>
 
 <img align="right" alt="Coding" width="300" height="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
