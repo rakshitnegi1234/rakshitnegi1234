@@ -1,5 +1,7 @@
 <!-- Replace the image URL below with your actual banner image URL -->
-![Banner](https://github.com/rakshitnegi1234/rakshitnegi1234/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png)
+<p align="center">
+  <img src="https://github.com/rakshitnegi1234/rakshitnegi1234/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png?raw=true" alt="Banner" width="600px">
+</p>
 
 <h2 align="center">A Passionate Software Engineer From India</h2>
 
@@ -85,16 +87,23 @@
 
 ---
 
+### 🌟 Interests and Education
+
+- **Interests:** Guitar Enthusiast, Exploring New Technologies and Algorithms
+- **Education:** Jaypee Institute of Information Technology (2022-2026)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitnegi1234&layout=compact" alt="rakshitnegi1234" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitnegi1234&layout=compact&theme=blue-green" alt="rakshitnegi1234" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshitnegi1234&show_icons=true" alt="rakshitnegi1234" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakshitnegi1234&show_icons=true&theme=blue-green" alt="rakshitnegi1234" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitnegi1234" alt="rakshitnegi1234" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitnegi1234&theme=blue-red" alt="rakshitnegi1234" />
 </p>
