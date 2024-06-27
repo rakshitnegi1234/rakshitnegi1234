@@ -1,4 +1,4 @@
-![logo](https://github.com/rakshitnegi1234/Rakshit_Negi/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
+![logo](https://github.com/rakshitnegi1234/rakshitnegi1234/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png).
 
 
 <h1 align="center">Hi 👋, I'm Rakshit Negi</h1>
