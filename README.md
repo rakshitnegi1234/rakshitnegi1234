@@ -1,7 +1,7 @@
 <!-- Replace the image URL below with your actual banner image URL -->
 ![Banner](https://github.com/rakshitnegi1234/rakshitnegi1234/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png)
 
-<h2 align="center">A Passionate Software Engineer from India</h2>
+<h2 align="center">A Passionate Software Engineer From India</h2>
 
 <img align="right" alt="Coding" width="300" height="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);">
 
