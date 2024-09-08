@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Machine Learning.**
 - 📫 How to reach me: **rakshitnegi7@gmail.com**
-- ⚡ Fun fact: **I am Funny**
+
 
 ---
 
