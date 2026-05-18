@@ -1,109 +1,137 @@
-<!-- Replace the image URL below with your actual banner image URL -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/rakshitnegi1234/rakshitnegi1234/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png?raw=true" alt="Banner" width="600px">
+  <img 
+    src="https://github.com/rakshitnegi1234/rakshitnegi1234/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png?raw=true" 
+    alt="Rakshit Negi Banner" 
+    width="100%" 
+  />
 </p>
 
-<h2 align="center">A Passionate Software Engineer From India</h2>
+<h1 align="center">Hi 👋, I'm Rakshit Negi</h1>
 
-<img align="right" alt="Coding" width="300" height="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);">
+<h3 align="center">
+  Software Engineer • Full Stack Developer • AI Enthusiast
+</h3>
+
+<p align="center">
+  Passionate about building scalable web applications, real-time systems, and AI-powered experiences.
+</p>
+
+---
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student at **Jaypee Institute of Information Technology**
+- 💻 Full Stack Developer focused on building impactful products
+- 🤖 Currently exploring **Deep Learning & AI Systems**
+- 🌱 Learning advanced backend architecture and intelligent applications
+- 🎸 Guitar enthusiast who enjoys blending creativity with technology
+- 📫 Reach me at: **rakshitnegi7@gmail.com**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rakshitnegi1234&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitnegi1234" />
+  <a href="https://linkedin.com/in/rakshit-negi-a57523251" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+
+  <a href="https://instagram.com/sporty_serenades" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
+
+  <a href="https://www.hackerrank.com/rakshitnegi7" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="45"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/rakshitnegi7" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" width="45"/>
+  </a>
 </p>
-
-### 👨‍💻 About Me
-
-- 🌱 I’m currently learning **Machine Learning.**
-- 📫 How to reach me: **rakshitnegi7@gmail.com**
-
 
 ---
 
-### 🌐 Connect with Me
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
 
 <p align="left">
-  <a href="https://linkedin.com/in/rakshit-negi-a57523251" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshit-negi-a57523251" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://instagram.com/sporty_serenades" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sporty_serenades" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.codechef.com/users/rakshitnegi7" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rakshitnegi7" height="30" width="40" style="filter: invert(100%); margin-right: 10px;" />
-  </a>
-  <a href="https://www.hackerrank.com/rakshitnegi7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakshitnegi7" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://codeforces.com/profile/rakshitnegi7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rakshitnegi7" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.leetcode.com/rakshitnegi123-456_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakshitnegi123-456_" height="30" width="40" style="margin-right: 10px;" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css" />
 </p>
 
----
-
-### 🛠️ Languages and Tools
+### ⚙️ Frameworks & Libraries
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### ☁️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode" />
 </p>
 
 ---
 
-### 🌟 Interests and Education
+## 🌟 Featured Projects
 
-- **Interests:** Guitar Enthusiast, Exploring New Technologies and Algorithms
-- **Education:** Jaypee Institute of Information Technology (2022-2026)
+### 🤖 GeminiTalk
+Voice-enabled AI Assistant built using:
+- React
+- Node.js
+- Gemini AI
+- MongoDB
+- Web Speech API
+
+### 🎨 SketchSync
+Real-time collaborative whiteboard and chat platform with:
+- Socket.IO
+- HTML Canvas
+- React
+- Express.js
+
+### 🎤 MockMate
+AI-powered mock interview platform featuring:
+- Firebase
+- Clerk Authentication
+- Gemini API
+- React + TypeScript
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitnegi1234&layout=compact&theme=blue-green" alt="rakshitnegi1234" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rakshitnegi1234&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitnegi1234&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshitnegi1234&show_icons=true&theme=blue-green" alt="rakshitnegi1234" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitnegi1234&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitnegi1234&theme=blue-red" alt="rakshitnegi1234" />
-</p>
+---
+
+## ✨ Developer Philosophy
+
+```txt
+Build. Learn. Improve. Repeat.
