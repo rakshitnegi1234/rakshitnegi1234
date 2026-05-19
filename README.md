@@ -51,21 +51,25 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <strong>💻 Languages</strong><br><br>
       <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css" alt="Languages" />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <strong>⚡ Frameworks</strong><br><br>
       <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase" alt="Frameworks" />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <strong>🗄️ Databases</strong><br><br>
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <strong>☁️ Tools & Cloud</strong><br><br>
       <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode" alt="Tools" />
+    </td>
+    <td align="center" width="20%">
+      <strong>🤖 AI & Vectors</strong><br><br>
+      <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logoColor=white" alt="LangGraph" style="border-radius: 5px;"/>
     </td>
   </tr>
 </table>
@@ -125,10 +129,6 @@
   &nbsp;&nbsp;
   <a href="https://instagram.com/sporty_serenades" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/rakshitnegi7" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="50" alt="HackerRank" />
   </a>
 </p>
 
