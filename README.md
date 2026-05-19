@@ -61,15 +61,19 @@
     </td>
     <td align="center" width="20%">
       <strong>🗄️ Databases</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" style="margin-bottom: 8px;"/><br>
+      <img src="https://img.shields.io/badge/Neo4j-0D1117?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" style="margin-bottom: 5px;"/><br>
+      <img src="https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge&logoColor=white" alt="Pinecone" />
     </td>
     <td align="center" width="20%">
       <strong>☁️ Tools & Cloud</strong><br><br>
       <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode" alt="Tools" />
     </td>
     <td align="center" width="20%">
-      <strong>🤖 AI & Vectors</strong><br><br>
-      <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logoColor=white" alt="LangGraph" style="border-radius: 5px;"/>
+      <strong>🤖 AI, Agents & LLMs</strong><br><br>
+      <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logoColor=white" alt="LangGraph" style="margin-bottom: 5px;"/><br>
+      <img src="https://img.shields.io/badge/DeepSeek-0D1117?style=for-the-badge&logoColor=white" alt="DeepSeek" style="margin-bottom: 5px;"/><br>
+      <img src="https://img.shields.io/badge/Mistral--Medium-0D1117?style=for-the-badge&logoColor=white" alt="Mistral" />
     </td>
   </tr>
 </table>
@@ -106,16 +110,27 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshitnegi1234&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true&theme=tokyonight&cache_seconds=1800" width="100%" alt="GitHub Activity Graph" />
 </p>
 
-<!-- Stats and Languages Cards -->
+<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshitnegi1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitnegi1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" height="170" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rakshitnegi1234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-<!-- Contribution Streak Card -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitnegi1234&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" height="180" alt="GitHub Streak" />
-</p>
+<!-- Perfectly Aligned Dashboard Grid for Cards -->
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rakshitnegi1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=f7768e&cache_seconds=1800" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitnegi1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&cache_seconds=1800" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding-top: 15px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitnegi1234&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
