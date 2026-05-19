@@ -62,8 +62,9 @@
     <td align="center" width="20%">
       <strong>🗄️ Databases</strong><br><br>
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" style="margin-bottom: 8px;"/><br>
-      <img src="https://img.shields.io/badge/Neo4j-0D1117?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" style="margin-bottom: 5px;"/><br>
-      <img src="https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge&logoColor=white" alt="Pinecone" />
+      <!-- Original Logos without text -->
+      <img src="https://github.com/neo4j.png" width="48" alt="Neo4j" /> &nbsp;
+      <img src="https://github.com/pinecone-io.png" width="48" alt="Pinecone" />
     </td>
     <td align="center" width="20%">
       <strong>☁️ Tools & Cloud</strong><br><br>
@@ -71,9 +72,10 @@
     </td>
     <td align="center" width="20%">
       <strong>🤖 AI, Agents & LLMs</strong><br><br>
-      <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logoColor=white" alt="LangGraph" style="margin-bottom: 5px;"/><br>
-      <img src="https://img.shields.io/badge/DeepSeek-0D1117?style=for-the-badge&logoColor=white" alt="DeepSeek" style="margin-bottom: 5px;"/><br>
-      <img src="https://img.shields.io/badge/Mistral--Medium-0D1117?style=for-the-badge&logoColor=white" alt="Mistral" />
+      <!-- Original Logos without text -->
+      <img src="https://github.com/langchain-ai.png" width="48" alt="LangGraph" style="margin-bottom: 8px;"/><br>
+      <img src="https://github.com/deepseek-ai.png" width="48" alt="DeepSeek" /> &nbsp;
+      <img src="https://github.com/mistralai.png" width="48" alt="Mistral" />
     </td>
   </tr>
 </table>
