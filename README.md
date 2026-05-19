@@ -107,7 +107,7 @@
 <!-- GitHub Stats Section with 30-min Cache Refresh -->
 <h2 align="center">📈 GitHub Analytics & Activity</h2>
 
-<!-- Dynamic Activity Wave Graph -->
+<!-- Dynamic Activity Wave Graph (Last 31 Days) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshitnegi1234&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true&theme=tokyonight&cache_seconds=1800" width="100%" alt="GitHub Activity Graph" />
 </p>
@@ -117,22 +117,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rakshitnegi1234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-<!-- Perfectly Aligned Dashboard Grid for Cards -->
-<table align="center" width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rakshitnegi1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=f7768e&cache_seconds=1800" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitnegi1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&cache_seconds=1800" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="padding-top: 15px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitnegi1234&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<!-- Contribution Streak Card -->
+<p align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitnegi1234&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+</p>
 
 ---
 
