@@ -116,22 +116,6 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Real-Time Applications</h3>
-      <p>
-        Developing collaborative applications using event-driven communication,
-        WebSockets, live synchronization, and shared application state.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☁️ Production Engineering</h3>
-      <p>
-        Working with Docker, cloud deployment, CI-oriented workflows,
-        observability concepts, testing, reliability, and secure application design.
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -300,11 +284,10 @@
 </p>
 
 ```text
-System Design          ████████░░  Scalable architectures and reliability
-Backend Engineering    ████████░░  APIs, databases, authentication and queues
-AI Engineering         █████████░  RAG, GraphRAG, agents and LLM applications
-DevOps and Cloud       ███████░░░  Docker, deployments and observability
-Problem Solving        ████████░░  DSA and competitive programming
+System Design          █████░░░░░  Scalable architectures and reliability
+Backend Engineering    █████░░░░░  APIs, databases, authentication and queues
+AI Engineering         █████░░░░░  RAG, GraphRAG, agents and LLM applications
+Problem Solving        █████░░░░░  DSA and competitive programming
 ```
 
 ---
