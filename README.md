@@ -1,198 +1,421 @@
 <p align="center">
-  <img src="https://github.com/rakshitnegi1234/rakshitnegi1234/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png?raw=true" alt="Rakshit Negi Banner" width="100%" />
+  <img
+    src="https://github.com/rakshitnegi1234/rakshitnegi1234/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png?raw=true"
+    alt="Rakshit Negi — Software Engineer and AI Systems Builder"
+    width="100%"
+  />
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Rakshit Negi</h1>
+<h1 align="center">
+  Hey, I'm Rakshit Negi
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="30"
+    alt="Waving hand"
+  />
+</h1>
 
 <h3 align="center">
-  <samp>
-    Software Engineer • Full Stack Developer • AI Systems Builder
-  </samp>
+  Software Engineer · Full-Stack Developer · AI Systems Builder
 </h3>
 
 <p align="center">
-  Building scalable web apps, real-time systems, and AI-powered products with a strong focus on engineering quality and system design.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakshitnegi1234&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rakshitnegi1234?style=for-the-badge&color=7c3aed&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20%7C%20AI%20Roles-0f766e?style=for-the-badge" alt="Open to Roles" />
+  I design and build scalable web applications, distributed backend systems,
+  real-time products, and production-oriented AI workflows.
 </p>
 
 <p align="center">
   <a href="mailto:rakshitnegi7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rakshitnegi7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/rakshit-negi-a57523251" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rakshit%20Negi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/sporty_serenades" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-sporty__serenades-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
-
-## 🚀 Behind the Code
-
-<table>
-  <tr>
-    <td width="62%">
-      <ul>
-        <li>🎓 <strong>B.Tech CSE Student</strong> at Jaypee Institute of Information Technology.</li>
-        <li>💻 <strong>Full Stack Developer</strong> passionate about building impactful, user-focused products.</li>
-        <li>🏗️ <strong>System Design Enthusiast</strong> exploring scalable architecture, sharding, replication, caching, and backend reliability.</li>
-        <li>🤖 <strong>AI Builder</strong> interested in RAG, GraphRAG, LLM applications, and intelligent developer tools.</li>
-        <li>⚡ I enjoy turning ideas into practical, engineered systems rather than just prototypes.</li>
-        <li>🎸 Outside coding, I enjoy playing guitar and blending creativity with logic.</li>
-      </ul>
-    </td>
-    <td width="38%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="280" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,react,nextjs,nodejs,express,tailwind,firebase,mongodb,mysql,postgresql,git,github,docker,vscode,aws" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Neo4j-Graph%20Database-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-Vector%20Database-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-AI%20Integration-8B5CF6?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-Agentic%20Workflows-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Socket.IO-Real%20Time-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prisma-ORM-0EA5E9?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
-
----
-
-## 💼 Featured Engineering Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🥇 GraphRAG Recommendation Engine</h3>
-      <p>
-        Architected a hybrid GraphRAG recommendation engine that combines deterministic graph traversal with semantic search to reduce hallucinations and improve retrieval quality.
-      </p>
-      <p><strong>Tech Stack:</strong> Neo4j, Pinecone, Mistral, Cypher, LLM Query Routing</p>
-      <p><strong>Highlights:</strong></p>
-      <ul>
-        <li>Deterministic multi-hop graph traversal</li>
-        <li>Structured ingestion pipeline from PDFs to knowledge graph</li>
-        <li>Zero-trust validation layer before DB execution</li>
-      </ul>
-      <p><strong>Link:</strong> Internship / project summary available on request</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🥈 AI PR Reviewer SaaS</h3>
-      <p>
-        Full-stack AI code review platform that reviews pull requests using embeddings, retrieval, and automated repository understanding.
-      </p>
-      <p><strong>Tech Stack:</strong> Next.js, TypeScript, PostgreSQL, Prisma, Pinecone, Gemini, Inngest</p>
-      <p><strong>Highlights:</strong></p>
-      <ul>
-        <li>GitHub webhook-based review pipeline</li>
-        <li>AI-generated PR comments</li>
-        <li>Async background workflow orchestration</li>
-      </ul>
-      <p><strong>Status:</strong> In progress / architecture-focused project</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 GeminiTalk AI Assistant</h3>
-      <p>
-        Voice-enabled AI assistant with authentication, custom avatars, Gemini-powered responses, and speech input/output.
-      </p>
-      <p><strong>Tech Stack:</strong> React, Node.js, Express, MongoDB, Gemini API, Web Speech API, Cloudinary</p>
-      <p><strong>Highlights:</strong></p>
-      <ul>
-        <li>Voice input and output</li>
-        <li>JWT authentication</li>
-        <li>Avatar upload and customization</li>
-      </ul>
-      <p><strong>Link:</strong> <a href="https://github.com/rakshitnegi1234/A.I_Assistant">💻 Source Code</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ SketchSync</h3>
-      <p>
-        Real-time collaborative whiteboard and chat application with live synchronization, room-based collaboration, and role-based control.
-      </p>
-      <p><strong>Tech Stack:</strong> React, Node.js, Express, Socket.IO, Canvas API, Bootstrap</p>
-      <p><strong>Highlights:</strong></p>
-      <ul>
-        <li>Real-time drawing synchronization</li>
-        <li>Live chat and user tracking</li>
-        <li>Undo, clear, and room-based collaboration</li>
-      </ul>
-      <p><strong>Link:</strong> <a href="https://github.com/rakshitnegi1234/SketchSync">💻 Source Code</a></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rakshitnegi1234&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshitnegi1234&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitnegi1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakshitnegi1234&theme=tokyonight" width="95%" alt="Contribution Graph" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/System%20Design-HLD%20%26%20Scalability-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend%20Engineering-APIs%20%7C%20Databases%20%7C%20Auth-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Systems-RAG%20%7C%20GraphRAG%20%7C%20LLMs-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Competitive%20Programming-DSA%20%7C%20Problem%20Solving-F59E0B?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning-High%20Availability%20Systems-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-Advanced%20Backend-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-AI%20Application%20Engineering-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-Real%20Time%20Architectures-111827?style=flat-square" />
-</p>
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="mailto:rakshitnegi7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rakshitnegi7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img
+      src="https://img.shields.io/badge/Email-rakshitnegi7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email Rakshit Negi"
+    />
   </a>
   <a href="https://linkedin.com/in/rakshit-negi-a57523251">
-    <img src="https://img.shields.io/badge/LinkedIn-Rakshit%20Negi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Rakshit%20Negi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Rakshit Negi on LinkedIn"
+    />
   </a>
   <a href="https://instagram.com/sporty_serenades">
-    <img src="https://img.shields.io/badge/Instagram-sporty__serenades-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img
+      src="https://img.shields.io/badge/Instagram-sporty__serenades-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Rakshit Negi on Instagram"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Build.+Learn.+Improve.+Repeat.;Full+Stack+Developer.;AI+Systems+Builder.;System+Design+Enthusiast." alt="Typing SVG" />
+  <img
+    src="https://komarev.com/ghpvc/?username=rakshitnegi1234&label=Profile%20Views&color=2563EB&style=flat-square"
+    alt="Profile views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/rakshitnegi1234?label=Followers&style=flat-square&color=7C3AED"
+    alt="GitHub followers"
+  />
+  <img
+    src="https://img.shields.io/badge/Open%20To-Software%20Engineering%20Roles-0F766E?style=flat-square"
+    alt="Open to software engineering roles"
+  />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+scalable+full-stack+products;Engineering+reliable+backend+systems;Exploring+RAG%2C+GraphRAG+and+agentic+workflows;Learning%2C+building+and+improving+every+day"
+    alt="Typing introduction"
+  />
+</p>
+
+---
+
+## `01.` About Me
+
+<table>
+  <tr>
+    <td width="63%" valign="top">
+
+* 🎓 B.Tech Computer Science student at **Jaypee Institute of Information Technology**
+* 💻 Focused on **full-stack development, backend engineering, and AI systems**
+* 🏗️ Exploring **distributed systems, scalability, caching, replication, sharding, and fault tolerance**
+* 🤖 Building with **RAG, GraphRAG, LLMs, vector databases, knowledge graphs, and agentic workflows**
+* ⚡ Interested in transforming ambitious ideas into reliable, production-oriented systems
+* 🧠 Strengthening **data structures, algorithms, system design, and competitive programming**
+* 🎸 Outside engineering, I enjoy playing guitar and combining creativity with structured problem-solving
+
+  </td>
+  <td width="37%" align="center" valign="middle">
+    <img
+      src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+      alt="Developer coding animation"
+      width="290"
+    />
+  </td>
+  </tr>
+
+</table>
+
+---
+
+## `02.` Engineering Focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Backend and System Design</h3>
+      <p>
+        Designing maintainable APIs, authentication systems, database models,
+        caching layers, asynchronous workflows, and scalable service architectures.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Applied AI Engineering</h3>
+      <p>
+        Building retrieval pipelines, GraphRAG systems, semantic search,
+        LLM-powered products, intelligent routing, and multi-agent workflows.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Real-Time Applications</h3>
+      <p>
+        Developing collaborative applications using event-driven communication,
+        WebSockets, live synchronization, and shared application state.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Production Engineering</h3>
+      <p>
+        Working with Docker, cloud deployment, CI-oriented workflows,
+        observability concepts, testing, reliability, and secure application design.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `03.` Technology Stack
+
+### Languages
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css"
+    alt="Programming languages"
+  />
+</p>
+
+### Frontend Development
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite"
+    alt="Frontend technologies"
+  />
+</p>
+
+### Backend and APIs
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,prisma,firebase"
+    alt="Backend technologies"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/REST_APIs-Backend_Architecture-1E293B?style=for-the-badge"
+    alt="REST APIs"
+  />
+  <img
+    src="https://img.shields.io/badge/Socket.IO-Real--Time_Systems-010101?style=for-the-badge&logo=socketdotio&logoColor=white"
+    alt="Socket.IO"
+  />
+  <img
+    src="https://img.shields.io/badge/Inngest-Background_Workflows-6C47FF?style=for-the-badge"
+    alt="Inngest"
+  />
+  <img
+    src="https://img.shields.io/badge/JWT-Authentication-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
+    alt="JWT authentication"
+  />
+</p>
+
+### Databases and Data Infrastructure
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"
+    alt="Database technologies"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Neo4j-Knowledge_Graph-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"
+    alt="Neo4j"
+  />
+  <img
+    src="https://img.shields.io/badge/Pinecone-Vector_Database-111827?style=for-the-badge"
+    alt="Pinecone"
+  />
+  <img
+    src="https://img.shields.io/badge/Qdrant-Vector_Search-DC244C?style=for-the-badge"
+    alt="Qdrant"
+  />
+</p>
+
+### AI and Intelligent Systems
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/LangGraph-Agentic_Workflows-0F172A?style=for-the-badge"
+    alt="LangGraph"
+  />
+  <img
+    src="https://img.shields.io/badge/LangChain-LLM_Applications-1C3C3C?style=for-the-badge"
+    alt="LangChain"
+  />
+  <img
+    src="https://img.shields.io/badge/Gemini-AI_Integration-8E75B2?style=for-the-badge&logo=google&logoColor=white"
+    alt="Google Gemini"
+  />
+  <img
+    src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-2563EB?style=for-the-badge"
+    alt="Retrieval-Augmented Generation"
+  />
+  <img
+    src="https://img.shields.io/badge/GraphRAG-Graph_Grounded_AI-7C3AED?style=for-the-badge"
+    alt="GraphRAG"
+  />
+</p>
+
+### Development, Cloud and Infrastructure
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,vscode,linux"
+    alt="Development and infrastructure tools"
+  />
+</p>
+
+---
+
+## `04.` Experience Snapshot
+
+<table>
+  <tr>
+    <td>
+      <h3>💼 Software Engineering Intern · Bharat Electronics Limited</h3>
+      <p>
+        Worked on an AI-powered recommendation and knowledge retrieval system
+        combining graph-based reasoning with semantic vector search.
+      </p>
+      <ul>
+        <li>
+          Built a hybrid <strong>GraphRAG architecture</strong> using Neo4j and Pinecone.
+        </li>
+        <li>
+          Developed a structured <strong>PDF-to-JSON ingestion pipeline</strong>
+          for knowledge-graph construction.
+        </li>
+        <li>
+          Used Cypher <strong>MERGE-based deduplication</strong> to maintain graph consistency.
+        </li>
+        <li>
+          Implemented semantic query routing between graph traversal and vector retrieval.
+        </li>
+        <li>
+          Added a zero-trust validation layer for controlled, read-only database execution.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `05.` Current Learning Roadmap
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/System_Design-Scalability_&_Reliability-2563EB?style=for-the-badge"
+    alt="System design"
+  />
+  <img
+    src="https://img.shields.io/badge/Backend_Engineering-APIs_&_Distributed_Systems-7C3AED?style=for-the-badge"
+    alt="Backend engineering"
+  />
+  <img
+    src="https://img.shields.io/badge/AI_Systems-RAG_&_Agentic_Workflows-0F766E?style=for-the-badge"
+    alt="AI systems"
+  />
+  <img
+    src="https://img.shields.io/badge/Problem_Solving-DSA_&_Competitive_Programming-D97706?style=for-the-badge"
+    alt="Problem solving"
+  />
+</p>
+
+```text
+System Design          ████████░░  Scalable architectures and reliability
+Backend Engineering    ████████░░  APIs, databases, authentication and queues
+AI Engineering         █████████░  RAG, GraphRAG, agents and LLM applications
+DevOps and Cloud       ███████░░░  Docker, deployments and observability
+Problem Solving        ████████░░  DSA and competitive programming
+```
+
+---
+
+## `06.` GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rakshitnegi1234&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true&count_private=true"
+    height="180"
+    alt="Rakshit Negi GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitnegi1234&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8"
+    height="180"
+    alt="Rakshit Negi most-used programming languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rakshitnegi1234&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="Rakshit Negi GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakshitnegi1234&theme=tokyonight"
+    width="96%"
+    alt="Rakshit Negi GitHub contribution summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rakshitnegi1234&theme=tokyo-night&hide_border=true&radius=12&area=true"
+    width="96%"
+    alt="Rakshit Negi GitHub activity graph"
+  />
+</p>
+
+---
+
+## `07.` Development Philosophy
+
+<p align="center">
+  <em>
+    “Build beyond the demo. Design for maintainability, validate assumptions,
+    handle failure, and continuously improve the system.”
+  </em>
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Build-Production--Oriented_Systems-2563EB?style=flat-square"
+    alt="Build production-oriented systems"
+  />
+  <img
+    src="https://img.shields.io/badge/Learn-From_First_Principles-7C3AED?style=flat-square"
+    alt="Learn from first principles"
+  />
+  <img
+    src="https://img.shields.io/badge/Improve-Through_Iteration-0F766E?style=flat-square"
+    alt="Improve through iteration"
+  />
+</p>
+
+---
+
+## `08.` Connect With Me
+
+<p align="center">
+  I'm always interested in discussing software engineering, backend architecture,
+  system design, AI applications, and ambitious product ideas.
+</p>
+
+<p align="center">
+  <a href="mailto:rakshitnegi7@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Let's_Talk-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email Rakshit Negi"
+    />
+  </a>
+  <a href="https://linkedin.com/in/rakshit-negi-a57523251">
+    <img
+      src="https://img.shields.io/badge/Professional_Network-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect with Rakshit Negi on LinkedIn"
+    />
+  </a>
+  <a href="https://github.com/rakshitnegi1234">
+    <img
+      src="https://img.shields.io/badge/Explore_My_Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Rakshit Negi on GitHub"
+    />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Build.+Learn.+Improve.+Repeat.;Engineering+ideas+into+reliable+systems.;Thanks+for+visiting+my+profile!"
+    alt="Closing typing animation"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=130&section=footer"
+    width="100%"
+    alt="Profile footer"
+  />
 </p>
