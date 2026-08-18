@@ -181,29 +181,18 @@ A multi-agent AI software engineering project focused on planning, building, deb
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakshitnegi1234&theme=tokyonight"
+    src="https://ghchart.rshah.org/58A6FF/rakshitnegi1234"
     width="100%"
-    alt="Rakshit Negi GitHub contribution summary for the last year"
+    alt="Rakshit Negi GitHub contributions in the last year"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rakshitnegi1234&theme=tokyo-night&hide_border=true&radius=12&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rakshitnegi1234&theme=tokyo-night&hide_border=true&radius=10&area=true"
     width="100%"
-    alt="Rakshit Negi GitHub activity graph"
+    alt="Rakshit Negi recent GitHub activity"
   />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=rakshitnegi1234&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="Rakshit Negi GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <sub>Clean contribution visuals only — activity graph, streak, and last-year contribution summary.</sub>
 </p>
 
 ---
