@@ -24,6 +24,9 @@
   <a href="https://github.com/rakshitnegi1234">
     <img src="https://img.shields.io/badge/GitHub-rakshitnegi1234-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://instagram.com/sporty_serenades">
+    <img src="https://img.shields.io/badge/Instagram-sporty__serenades-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 <p align="center">
@@ -38,36 +41,37 @@
 
 * 🎓 B.Tech Computer Science student at **Jaypee Institute of Information Technology**
 * 💻 Focused on **full-stack development, backend engineering, and AI systems**
-* 🏗️ Interested in **scalability, distributed systems, caching, replication, sharding, and fault tolerance**
+* 🏗️ Interested in **distributed systems, scalability, caching, replication, sharding, and fault tolerance**
 * 🤖 Building with **RAG, GraphRAG, LLMs, vector databases, knowledge graphs, and agentic workflows**
-* 🧠 Continuously improving in **data structures, algorithms, system design, and competitive programming**
-* 🎸 Outside tech, I enjoy **playing guitar** and combining creativity with structured problem-solving
+* 🧠 Strengthening **data structures, algorithms, system design, and problem-solving**
+* ⚡ I enjoy turning ambitious ideas into structured, production-oriented systems
+* 🎸 Outside tech, I enjoy **playing guitar** and combining creativity with disciplined thinking
 
 ---
 
-## What I Do
+## Engineering Focus
 
 ### Backend Engineering
 
-* REST APIs
+* Designing maintainable APIs
 * Authentication and authorization
-* Database design
-* Caching and async workflows
-* Scalable service architecture
+* Database modeling and query optimization
+* Caching, queues, and async workflows
+* Scalable backend architecture
 
 ### AI Engineering
 
-* Retrieval-Augmented Generation (RAG)
-* GraphRAG systems
-* Semantic search
+* Retrieval-Augmented Generation (**RAG**)
+* **GraphRAG** and graph-grounded systems
+* Semantic search and intelligent routing
 * LLM-powered products
 * Multi-agent workflows
 
 ### Full-Stack Development
 
 * Responsive frontend applications
-* Real-time features
-* Clean UI integration
+* Real-time product experiences
+* Clean UI + strong backend integration
 * End-to-end product development
 
 ---
@@ -76,31 +80,31 @@
 
 ### Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css" alt="Languages" />
 </p>
 
 ### Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite" alt="Frontend" />
 </p>
 
 ### Backend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,firebase" alt="Backend" />
 </p>
 
 ### Databases
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" alt="Databases" />
 </p>
 
 ### AI / Data Infrastructure
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Neo4j-Knowledge_Graph-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
   <img src="https://img.shields.io/badge/Pinecone-Vector_Database-111827?style=for-the-badge" alt="Pinecone" />
   <img src="https://img.shields.io/badge/Qdrant-Vector_Search-DC244C?style=for-the-badge" alt="Qdrant" />
@@ -111,7 +115,7 @@
 
 ### Tools / Infrastructure
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,vscode,linux" alt="Tools" />
 </p>
 
@@ -127,23 +131,15 @@ Worked on an AI-powered recommendation and knowledge retrieval system combining 
 
 * Built a hybrid **GraphRAG architecture** using **Neo4j** and **Pinecone**
 * Developed a structured **PDF-to-JSON ingestion pipeline**
-* Used **Cypher MERGE-based deduplication** for graph consistency
+* Used **Cypher MERGE-based deduplication** to maintain graph consistency
 * Implemented **semantic query routing** between graph traversal and vector retrieval
-* Added a **zero-trust validation layer** for controlled read-only database execution
+* Added a **zero-trust validation layer** for controlled, read-only database execution
 
 ---
 
 ## Featured Projects
 
-### 1. Multi-Agent AI Platform
-
-A full-stack multi-agent system focused on intelligent workflows, routing, retrieval, and scalable backend architecture.
-
-**Tech:** MERN, LangGraph, Qdrant, Redis, JWT, Docker
-
----
-
-### 2. AI PR Review SaaS
+### 01. AI PR Review SaaS
 
 An AI-powered platform that reviews pull requests, understands repositories, and helps automate code review workflows.
 
@@ -151,53 +147,96 @@ An AI-powered platform that reviews pull requests, understands repositories, and
 
 ---
 
-### 3. SketchSync
+### 02. BEL_PROJECT-V2.0
 
-A collaborative project focused on interactive and real-time user experiences.
+A project focused on intelligent knowledge retrieval and recommendation workflows inspired by practical AI-system building.
 
-**Repo:** [SketchSync](https://github.com/rakshitnegi1234/SketchSync)
+**Repo:** [BEL_PROJECT-V2.0](https://github.com/rakshitnegi1234/BEL_PROJECT-V2.0)
+
+**Tech:** JavaScript, AI workflows, retrieval systems, backend engineering
 
 ---
 
-### 4. AI Assistant
+### 03. AI_SDE_TEAM
 
-A project exploring AI-assisted workflows and product-oriented LLM integration.
+A multi-agent AI software engineering project focused on planning, building, debugging, and improving software workflows.
 
-**Repo:** [A.I_Assistant](https://github.com/rakshitnegi1234/A.I_Assistant)
+**Repo:** [AI_SDE_TEAM](https://github.com/rakshitnegi1234/AI_SDE_TEAM)
+
+**Tech:** JavaScript, LangGraph, backend systems, agentic workflows, orchestration
 
 ---
 
 ## Current Focus
 
-* Strengthening **backend engineering**
-* Learning **system design deeply**
-* Building **production-oriented AI systems**
-* Improving **problem-solving and DSA**
-* Exploring **distributed system fundamentals**
+* Building stronger **backend engineering fundamentals**
+* Learning **system design** more deeply
+* Creating **production-oriented AI systems**
+* Improving **DSA and problem-solving**
+* Exploring **scalability and distributed systems**
+
+---
+
+## GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakshitnegi1234&theme=tokyonight"
+    width="100%"
+    alt="Rakshit Negi GitHub contribution summary for the last year"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rakshitnegi1234&theme=tokyo-night&hide_border=true&radius=12&area=true"
+    width="100%"
+    alt="Rakshit Negi GitHub activity graph"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rakshitnegi1234&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="Rakshit Negi GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <sub>Clean contribution visuals only — activity graph, streak, and last-year contribution summary.</sub>
+</p>
 
 ---
 
 ## Development Philosophy
 
 > Build beyond the demo.
-> Design for maintainability, validate assumptions, handle failure, and improve continuously.
+> Design for maintainability.
+> Validate assumptions.
+> Handle failure well.
+> Improve through iteration.
 
 ---
 
 ## Connect With Me
 
-<p>
-  <a href="mailto:rakshitnegi7@gmail.com">📧 Email</a><br/>
-  <a href="https://linkedin.com/in/rakshit-negi-a57523251">💼 LinkedIn</a><br/>
-  <a href="https://github.com/rakshitnegi1234">💻 GitHub</a><br/>
-  <a href="https://instagram.com/sporty_serenades">📸 Instagram</a>
+<p align="center">
+  <a href="mailto:rakshitnegi7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/rakshit-negi-a57523251">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rakshitnegi1234">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
   <strong>Thanks for visiting my profile!</strong><br/>
-  I’m always open to meaningful conversations around software engineering, backend systems, and AI products.
+  I’m always open to conversations around software engineering, backend systems, and AI products.
 </p>
 
 <p align="center">
